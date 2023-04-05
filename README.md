@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @HenrikWittemeier
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning Vue.js ;)
+👋 Hi, I’m @HenrikWittemeier
 
 <!---
 HenrikWittemeier/HenrikWittemeier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
